@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+
+    <string name="s_btn_1">1</string>
+    <string name="s_btn_2">2</string>
+    <string name="s_btn_3">3</string>
+    <string name="s_btn_4">4</string>
+    <string name="s_btn_5">5</string>
+    <string name="s_btn_6">6</string>
+    <string name="s_btn_7">7</string>
+    <string name="s_btn_8">8</string>
+    <string name="s_btn_9">9</string>
+    <string name="s_btn_clear">c</string>
+    <string name="s_btn_0">0</string>
+
+    <string name="s_btn_buy">Buy</string>
+    <string name="s_btn_manager">Manager</string>
+
+    <string name="s_text_product">Product Type</string>
+    <string name="s_text_total">Total</string>
+    <string name="s_text_quantity">Quantity</string>
+
+    <!--    Manger Page   -->
+    <string name="s_btn_history">History</string>
+
+</resources>
