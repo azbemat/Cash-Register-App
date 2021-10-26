@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     ListView productList;
 
     ProductAdapter productAdapter;
-    static ArrayList<Product> listOfProducts;
-    static ArrayList<HistoryM> listOfHistory;
+    ArrayList<Product> listOfProducts;
+    ArrayList<HistoryM> listOfHistory;
 
     AlertDialog.Builder builder;
 
